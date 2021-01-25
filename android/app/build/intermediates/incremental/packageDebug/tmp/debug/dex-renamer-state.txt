@@ -1,0 +1,4 @@
+#Mon Jan 25 16:12:28 KST 2021
+base.0=/Users/Choijonggyu/Desktop/NativeModuleTest/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
